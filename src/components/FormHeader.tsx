@@ -3,7 +3,7 @@ import React from "react";
 const FormHeader: React.FC = ()=>{
     return (
         <div className="flex justify-between items-end pb-20">
-            <h1 className="font-bold text-gray-500 text-2xl inline">
+            <h1 className="font-bold text-gray-500  text-xl xl:text-2xl inline">
                 Здравствуйте, {' '}
                 <span className="text-black relative">
                     Человек № 3596941
